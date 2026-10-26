@@ -1,13 +1,32 @@
 # Hi there, I'm Anass Abarkane! 👋
 
-- 👀 I’m interested in mathematics, physics, and web development.  
-- 🌱 I’m currently learning advanced React, Django, and IoT technologies.  
-- 💻 I’m passionate about building modern web applications and IoT projects.  
-- 🎓 I’m a fourth-year computer engineering student at Université Mundiapolis.  
-- 🚀 I’m working on a home automation simulation using Blynk and Wokwi.  
-- 💼 I’m looking for an internship in web development, IoT, or software engineering.  
-- 🛍️ I’m also building an online store on Shopify.  
-- 📫 How to reach me:  
-  - **Instagram:** [anass_abr](https://www.instagram.com/anass_abr)  
-  - **GitHub:** [@anasabarkan](https://github.com/anasabarkan)  
-- ⚡ Fun fact: I love solving challenging math and physics problems in my free time!  
+**AI Engineer in the making** — State Engineer in Computer Science, now pursuing an **MSc in Artificial Intelligence (M2) at ECE Paris**.  
+I build end-to-end **Generative AI applications**: LLMs, RAG, multi-agent systems, APIs, data and secure interfaces.
+
+- 🤖 Focused on **Generative AI, LLM engineering, RAG and AI agents**
+- 💼 Built an **AI copilot connected to an Odoo ERP** at Devoteam (RAG assistant with the Gemini API, RBAC, human validation, traceability)
+- 🚀 Working on **FromScratch**, a multi-agent SaaS platform orchestrated with LangChain that turns an idea into structured project deliverables
+- 🔍 Built a **multimodal fake news & deepfake detection pipeline** (text, image, video) with Whisper
+- 🎯 Looking for a **6-month end-of-studies internship (PFE) starting April 15, 2027** in Generative AI, LLM engineering, Machine Learning or Data — Paris area
+- ⚡ Fun fact: I love solving challenging math and physics problems in my free time!
+
+## 🛠️ Tech Stack
+
+**AI & LLM:** LangChain · RAG · Prompt Engineering · AI Agents · Gemini API · Whisper  
+**ML & Data:** Python · scikit-learn · Pandas · NLP  
+**Backend:** FastAPI · Spring Boot · Node.js · REST APIs · WebSockets  
+**Frontend:** React · Next.js · Angular · TypeScript  
+**Databases:** PostgreSQL · MySQL · MongoDB  
+**Cloud & DevOps:** Docker · GitHub Actions · AWS EC2 · NGINX
+
+## 📜 Certifications
+
+- Building and Evaluating Advanced RAG — DeepLearning.AI
+- Build LLM Apps with LangChain.js — DeepLearning.AI
+- Introduction to Data Science — Cisco
+
+## 📫 Let's connect
+
+- **LinkedIn:** [anass-abarkane](https://www.linkedin.com/in/anass-abarkane)
+- **Email:** abarkaneanass.engineer@gmail.com
+- **GitHub:** [@anasabarkan](https://github.com/anasabarkan)
