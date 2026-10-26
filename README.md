@@ -1,4 +1,4 @@
-# Hi there, I'm Anas Abarkan! 👋
+# Hi there, I'm Anass Abarkane! 👋
 
 - 👀 I’m interested in mathematics, physics, and web development.  
 - 🌱 I’m currently learning advanced React, Django, and IoT technologies.  
