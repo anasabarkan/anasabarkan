@@ -7,12 +7,12 @@
   <img src="https://img.shields.io/badge/📍-Paris%20area-555" />
 </p>
 
-> 🎯 **Open to a 6-month end-of-studies internship (PFE) from April 15, 2027**
+>  **Open to a 6-month end-of-studies internship (PFE) from April 15, 2027**
 > Generative AI · LLM engineering · RAG · AI agents — Paris area
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 **AI & LLM** — LangChain · RAG · AI Agents · Prompt Engineering · Gemini API · Whisper
 **ML & Data** — Python · scikit-learn · Pandas · NLP
