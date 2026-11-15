@@ -33,10 +33,10 @@
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 - Building and Evaluating Advanced RAG — *DeepLearning.AI*
 - Build LLM Apps with LangChain.js — *DeepLearning.AI*
 - Introduction to Data Science — *Cisco*
 
-<sub>⚡ Fun fact: I love solving challenging math and physics problems in my free time.</sub>
+<sub> Fun fact: I love solving challenging math and physics problems in my free time.</sub>
