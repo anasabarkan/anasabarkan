@@ -1,32 +1,42 @@
-# Hi there, I'm Anass Abarkane! 👋
+<h1 align="center">Anass Abarkane</h1>
+<p align="center"><b>Generative AI & LLM Engineer</b> · MSc AI (M2) @ ECE Paris · State Engineer in Computer Science</p>
 
-**AI Engineer in the making** — State Engineer in Computer Science, now pursuing an **MSc in Artificial Intelligence (M2) at ECE Paris**.  
-I build end-to-end **Generative AI applications**: LLMs, RAG, multi-agent systems, APIs, data and secure interfaces.
+<p align="center">
+  <a href="https://www.linkedin.com/in/anass-abarkane"><img src="https://img.shields.io/badge/LinkedIn-anass--abarkane-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abarkaneanass.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/📍-Paris%20area-555" />
+</p>
 
-- 🤖 Focused on **Generative AI, LLM engineering, RAG and AI agents**
-- 💼 Built an **AI copilot connected to an Odoo ERP** at Devoteam (RAG assistant with the Gemini API, RBAC, human validation, traceability)
-- 🚀 Working on **FromScratch**, a multi-agent SaaS platform orchestrated with LangChain that turns an idea into structured project deliverables
-- 🔍 Built a **multimodal fake news & deepfake detection pipeline** (text, image, video) with Whisper
-- 🎯 Looking for a **6-month end-of-studies internship (PFE) starting April 15, 2027** in Generative AI, LLM engineering, Machine Learning or Data — Paris area
-- ⚡ Fun fact: I love solving challenging math and physics problems in my free time!
+> 🎯 **Open to a 6-month end-of-studies internship (PFE) from April 15, 2027**
+> Generative AI · LLM engineering · RAG · AI agents — Paris area
 
-## 🛠️ Tech Stack
+---
 
-**AI & LLM:** LangChain · RAG · Prompt Engineering · AI Agents · Gemini API · Whisper  
-**ML & Data:** Python · scikit-learn · Pandas · NLP  
-**Backend:** FastAPI · Spring Boot · Node.js · REST APIs · WebSockets  
-**Frontend:** React · Next.js · Angular · TypeScript  
-**Databases:** PostgreSQL · MySQL · MongoDB  
-**Cloud & DevOps:** Docker · GitHub Actions · AWS EC2 · NGINX
+### 🚀 Featured projects
 
-## 📜 Certifications
+| Project | What it does | Stack |
+|---|---|---|
+| **AI Copilot for Odoo ERP** · *Devoteam* | RAG assistant plugged into an ERP, with role-based access, human validation and full traceability | Gemini API · RAG · RBAC |
+| **FromScratch** · *in progress* | Multi-agent SaaS that turns a raw idea into structured project deliverables | LangChain · Agents · FastAPI |
+| **Fake news & deepfake detection** | Multimodal pipeline analysing text, image and video | Whisper · Python · NLP |
+| **[AI Act Copilot](https://github.com/anasabarkan/ai-act-copilot)** · *in progress* | RAG assistant to query and understand the EU AI Act | RAG · LLM · Python |
 
-- Building and Evaluating Advanced RAG — DeepLearning.AI
-- Build LLM Apps with LangChain.js — DeepLearning.AI
-- Introduction to Data Science — Cisco
+---
 
-## 📫 Let's connect
+### 🛠️ Tech stack
 
-- **LinkedIn:** [anass-abarkane](https://www.linkedin.com/in/anass-abarkane)
-- **Email:** abarkaneanass.engineer@gmail.com
-- **GitHub:** [@anasabarkan](https://github.com/anasabarkan)
+**AI & LLM** — LangChain · RAG · AI Agents · Prompt Engineering · Gemini API · Whisper
+**ML & Data** — Python · scikit-learn · Pandas · NLP
+**Backend** — FastAPI · Spring Boot · Node.js · REST · WebSockets
+**Frontend** — React · Next.js · Angular · TypeScript
+**Data & DevOps** — PostgreSQL · MySQL · MongoDB · Docker · GitHub Actions · AWS EC2 · NGINX
+
+---
+
+### 📜 Certifications
+
+- Building and Evaluating Advanced RAG — *DeepLearning.AI*
+- Build LLM Apps with LangChain.js — *DeepLearning.AI*
+- Introduction to Data Science — *Cisco*
+
+<sub>⚡ Fun fact: I love solving challenging math and physics problems in my free time.</sub>
