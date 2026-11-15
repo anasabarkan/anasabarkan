@@ -17,7 +17,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **AI Copilot for Odoo ERP** · *Devoteam* | RAG assistant plugged into an ERP, with role-based access, human validation and full traceability | Gemini API · RAG · RBAC |
-| **FromScratch** · *in progress* | Multi-agent SaaS that turns a raw idea into structured project deliverables | LangChain · Agents · FastAPI |
+| **FromScratch**  | Multi-agent SaaS that turns a raw idea into structured project deliverables | LangChain · Agents · FastAPI |
 | **Fake news & deepfake detection** | Multimodal pipeline analysing text, image and video | Whisper · Python · NLP |
 | **[AI Act Copilot](https://github.com/anasabarkan/ai-act-copilot)** · *in progress* | RAG assistant to query and understand the EU AI Act | RAG · LLM · Python |
 
