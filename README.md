@@ -2,7 +2,7 @@
 <p align="center"><b>Generative AI & LLM Engineer</b> · MSc AI (M2) @ ECE Paris · State Engineer in Computer Science</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anass-abarkane"><img src="https://img.shields.io/badge/LinkedIn-anass--abarkane-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/anass-abarkane](https://www.linkedin.com/in/anass-abarkane-476530171/)"><img src="https://img.shields.io/badge/LinkedIn-anass--abarkane-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abarkaneanass.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/📍-Paris%20area-555" />
 </p>
